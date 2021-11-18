@@ -127,12 +127,14 @@ main {
   padding-bottom: 20px;
   margin-bottom: 20px;
   border-bottom: 1px solid #f7f7f7;
-  display: flex;
-  justify-content: flex-start;
 }
+
 
 .blog-image {
   height: 180px;
+  margin:10px;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .blog-text {
@@ -288,4 +290,3 @@ footer {
 .author-text {
   font-size: 10px;
 }
-/*---show.html.erb---*/
